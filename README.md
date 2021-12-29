@@ -1,2 +1,2 @@
 # helloworld-nougaro
-Hello world in nougaro language
+Hello world in [Nougaro](https://github.com/jd-develop/nougaro) language
